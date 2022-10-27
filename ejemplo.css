@@ -1,0 +1,30 @@
+
+*{
+    margin: 0 0;
+}
+#caja
+{
+margin-top: 10PX;
+width: 500px;
+height: auto;
+background-color: aquamarine;
+position:static;
+ 
+/*overflow:scroll;*/
+ 
+}
+ 
+img{
+width: 80%;
+height: auto;
+ 
+}
+ 
+#nombrePerrito
+{
+background-color: blue;
+/*position: absolute;
+top:200px;
+left:120px;*/
+padding: 2px 2px;
+}
