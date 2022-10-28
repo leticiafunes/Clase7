@@ -1,0 +1,16 @@
+
+#header, #menu, #contenedor, #footer {margin:auto;}
+#header {width:950px;height:150px;background-color:#333333;}
+#logo {width:150px;height:100px;background-color:#555555;float:left;}
+#menu {width:950px;height:35px;background-color:#66cc00;clear:both;}
+#contenedor {width:950px;height:380px;background-color:#999999;}
+#contleft {width:200px;height:230px;background-color:#cccccc;float:left;}
+#contcenter {width:380px;height:230px;background-color:#cccccc;float:left;}
+#contcenterleft {width:130px;height:200px;background-color:#ffffff;float:left;}
+#contcenterright {width:200px;height:200px;background-color:#ffffff;float:left;}
+#contright {width:250px;height:230px;background-color:#cccccc;float:left;}
+#contfooter {width:890px;height:90px;background-color:#cccccc;float:left;}
+#footer {width:950px;height:30px;background-color:#7a7a7a;clear:both;}
+#logo, #contleft, #contcenter, #contright, #contfooter {position:relative;
+	margin-left:30px; margin-top:20px;}
+#contcenterleft, #contcenterright {margin-left:15px;margin-top:15px;}
